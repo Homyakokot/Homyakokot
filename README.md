@@ -57,7 +57,7 @@
 
 
 ## Github статистика  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=homyakokot&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=homyakokot&theme=tokyonight" align="center" /></div>  
 
 <br/>  
 
