@@ -1,16 +1,82 @@
-## Hi there 👋
-## Homyakokot
-<!--
-**Homyakokot/Homyakokot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+<img src="https://cs13.pikabu.ru/post_img/2023/05/24/6/1684919923128768487.jpg" align="center" style="width: 65%" />
+</div>  
+  
 
-Here are some ideas to get you started:
+### <div align="center">🐈Я Хомякокот, студент и начинающий программист🐈
+Хочу делать разные игры, а там как выйдет. Кто знает, что ожидает нас впереди...👀</div>  
+  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌆 Я из города Краснодар  
+  
+
+- 🌱 Я постепенно изучаю Python и C#  
+  
+
+- ⚔️ Фан факт: люблю котов и D&D  
+  
+
+<br/>  
+
+
+## Мои умения  
+<table><tr><td valign="top" width="33%">
+
+
+
+### Изучаю языки  
+<div align="center">  
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
+</div>
+
+</td><td valign="top" width="33%">
+
+
+
+### Изучаю инструменты  
+<div align="center">  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+<a href="https://unity.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/unity.png" alt="Unity" height="50" /></a>  
+</div>
+
+</td><td valign="top" width="33%">
+
+### Ну и ещё иногда рисую:  
+<img src="https://krita.org/images/krita-logo.png" align="left" height="" width="200" />  
+  
+
+
+</td></tr></table>  
+
+<br/>  
+
+  
+
+<br/>  
+
+
+## Github статистика  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=homyakokot&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+<br/>  
+
+  
+
+<br/>  
+
+  
+
+<br/>  
+
+<div align="right">
+<img src="https://komarev.com/ghpvc/?username=homyakokot&&style=flat-square" align="right" />
+</div>  
+  
+
+<br/>  
+
+
+<br />
+
+----
